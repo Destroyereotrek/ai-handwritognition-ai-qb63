@@ -1,4 +1,4 @@
-# 
+# Advanced AI Handwriting Recognition scripts. Featuring automated-decision-making and cloud-AI — optimized for maximum performance.
 
 
 
